@@ -34,6 +34,7 @@ hi Title        guifg=#f6f3e8 guibg=NONE    gui=bold
 hi Visual       guifg=#f6f3e8 guibg=#444444 gui=none
 hi SpecialKey   guifg=#808080 guibg=#343434 gui=none
 hi ColorColumn  guibg=#242424
+hi Search       guibg=#E56E94
 
 " Syntax highlighting
 hi Comment    guifg=#99968b gui=italic
